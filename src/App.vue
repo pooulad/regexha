@@ -25,7 +25,7 @@ import CardGrid from './components/CardGrid.vue';
 import Hero from './components/Hero.vue';
 import Search from './components/Search.vue';
 import VFooter from './components/VFooter.vue';
-import VHeader from './components/vHeader.vue';
+import VHeader from './components/VHeader.vue';
 import data from './data';
 import Empty from './components/Empty.vue';
 
